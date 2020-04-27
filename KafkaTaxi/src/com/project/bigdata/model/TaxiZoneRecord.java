@@ -1,4 +1,4 @@
-package com.project.bigdata;
+package com.project.bigdata.model;
 
 public class TaxiZoneRecord {
 
